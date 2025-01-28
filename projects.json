@@ -82,5 +82,20 @@
       "deployedLink": "na",
       "userCount": "na"
     }
+  ],
+  "achievements": [
+    {
+      "id": "codeforces-pupil",
+      "title": "Pupil on Codeforces",
+      "platform": "Codeforces",
+      "category": "Competitive Programming",
+      "description": "Demonstrated exceptional algorithmic problem-solving skills through consistent performance in competitive programming:\n\n• Achieved Pupil rank with 1200+ rating on Codeforces platform\n• Participated in multiple Codeforces rounds, showing consistent rating improvement\n• Solved problems across various categories including Dynamic Programming, Graph Algorithms, and Data Structures\n• Demonstrated proficiency in optimizing solutions for time and space complexity\n• Maintained consistent participation and improvement trajectory in contests",
+      "date": "2024",
+      "metrics": {
+        "rating": "1200+",
+        "rank": "Pupil",
+        "platform": "Codeforces"
+      }
+    }
   ]
 }
